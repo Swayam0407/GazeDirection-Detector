@@ -1,0 +1,43 @@
+
+html,body{
+  height: 100vh;
+}
+
+._photoCollectorContainer_lf6du_82{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+._photoCollectorButton_lf6du_88{
+  background-color: #007bff; 
+  color: white; 
+  border-radius: 8px;
+  padding: 12px 24px; 
+  border: none; 
+  font-size: 16px; 
+  cursor: pointer; 
+  width: 300px;
+}
+
+._photoCollectorButton_lf6du_88{
+  background-color: #0056b3;
+}
+
+.inference-result-image {
+  height: 100px;
+  width: 100px;
+  object-fit: cover; 
+  margin: 10px; 
+  border: 2px solid black; 
+}
+
+.top{
+  text-align: center;
+}
+
+footer{
+  position:relative;
+  margin-top: 90%;
+  text-align: center;
+}
