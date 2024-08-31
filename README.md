@@ -13,6 +13,7 @@ This is a React application that classifies gaze direction (left, right, up, or 
 3. **Result Display**: The classified result (gaze direction) is displayed alongside the image.
 
 
-<img width="475" alt="Screenshot 2024-08-31 at 8 17 23 PM" src="https://github.com/user-attachments/assets/c2e59d89-a034-4dea-950d-42a3842ba2ba">
+<img width="475" alt="Screenshot 2024-08-31 at 8 17 57 PM" src="https://github.com/user-attachments/assets/ce9c5d2c-dabd-4368-85ec-5737087042f8">
+
 
 
